@@ -1,7 +1,7 @@
 import argparse
 import logging
 import sys
-from src.splitter import split_sql
+from .splitter import split_sql
 
 
 def main():
